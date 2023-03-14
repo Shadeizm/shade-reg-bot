@@ -1,6 +1,3 @@
-# shade-reg-bot
-Yakında yapıcam.
-Bazı kendine botcu sananlar için çıkardım bu altyapıyı
-alır glitchde kullanırlar 😆
-
-discord.gg/1734 gelin destek için
+ # shade-reg-bot
+ Botu hafiften topladım bi kaç şeyde ben ekledim bot baya güzel
+ star at bari be
