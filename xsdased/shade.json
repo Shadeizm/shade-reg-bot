@@ -1,0 +1,30 @@
+{
+"token" : "MTAzMDkwNjE4NDQzOTQzOTM3MA.GZOII7.gcnoTTkZy5aEWb8KAcAoHtKzXIjde5qfouLcWM",
+"prefix" : ".",
+"sahip" : "id gir",
+"footer" : "footer yazda shadenin olduğu belli olmasın",
+
+    "tag" : "tag gir",
+    "etikettag" : "etiket tag gir",
+    "sembol" : "hani kayıt ederken isim  yaş oluyo ya onun arasına gelcek şeyi soruyo potçusun anlasana",
+  
+    "yetkiliRol" : ["register yetkili çoğaltmak için sona virgül tırnak at"],
+    "vipRol" : "elite rol id gir",
+    "boosterRol" : "booster rol id gir",
+    "kayıtsızRol" : "kayıtsız rol id",
+    "erkekRol1" : "erkek rol",
+    "erkekRol2" : "2 erkek",
+    "kadınRol1" : "kadın rol",
+    "kadınRol2" : "2 kadın",
+
+    "tagRol" : "istemiyosan boş bırak gitsin",  
+    "tagLog" : "istemiyosan boş bırak gitsin bide mainden silersin",
+
+    "SunucuID" : "yazmassan çalışmaz",
+    "hosgeldinKanal" : "mesaj atmasını isteidği yer",
+    "sohbetKanal" : "sohbet kanalı gir", 
+    "botSesKanal" : "ses kanal gir",
+  
+    "yes" : "ıd alıp gircen ismini değil bakarsın ytden",
+    "no" : "ıd alıp gircen ismini değil bakarsın ytden"
+}
